@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <a href="https://github.com/fuad7405">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=blue&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hi,%20I%27m%20Fuad%20Hasan">
+  <a href="https://github.com/fuad7405">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=blue&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hi,%20I%27m%20Fuad%20Hasan">
+  </a>
 </div>
 
 
@@ -18,7 +22,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="left">
   <a href="https://github.com/fuad7405">
-  <img src="https://komarev.com/ghpvc/?username=fuad7405&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=fuad7405&style=flat-square&color=blue&include_all_commits=true&count_private=true" alt=""/>
+  </a>
 </p>
 
 ---
@@ -38,20 +43,28 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuad7405" alt="fuad7405" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/fuad7405">
+    <img src="https://github-profile-trophy.vercel.app/?username=fuad7405&include_all_commits=true&count_private=true" alt="fuad7405" />
+  </a> 
+</p>
 
 ---
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fuad7405&theme=dark&hide_border=true)
+<p>
+  <a href="https://github.com/fuad7405">
+    <img src="https://activity-graph.herokuapp.com/graph?username=fuad7405&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="fuad7405" />
+  </a>
+</p>
 
 ---
 
 ### 🔥 &nbsp; My Stats :
 <div align="center">
-	<a href="https://github.com/fuad7405">
-	<img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" /> 
-	<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" />
-	<img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad7405&theme=dark&background=000000&include_all_commits=true&count_private=true" alt="fuad7405" />
+  <a href="https://github.com/fuad7405">
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" /> 
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" />
+    <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad7405&theme=dark&background=000000&include_all_commits=true&count_private=true" alt="fuad7405" />
+  </a>
 </div>
 
 ---
