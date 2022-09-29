@@ -61,9 +61,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 <div align="center">
   <a href="https://github.com/fuad7405">
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" /> 
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" />
-    <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad7405&theme=dark&background=000000&include_all_commits=true&count_private=true" alt="fuad7405" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" /> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fuad7405&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fuad7405" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad7405&theme=dark&background=000000&include_all_commits=true&count_private=true" alt="fuad7405" />
   </a>
 </div>
 
