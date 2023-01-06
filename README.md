@@ -52,7 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 <p>
   <a href="https://github.com/fuad7405">
-    <img src="https://activity-graph.herokuapp.com/graph?username=fuad7405&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="fuad7405" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fuad7405&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="fuad7405" />
   </a>
 </p>
 
