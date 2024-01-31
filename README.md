@@ -15,8 +15,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
-- 🔭 I’m currently working as a Lead Software Engineer
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fuad.7405-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fuad.7405)
+- 🔭 I’m currently working as a Principal Software Engineer
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fuad7405-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fuad.7405)
 
 ---
 
